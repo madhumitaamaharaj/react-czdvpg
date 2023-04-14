@@ -1,0 +1,23 @@
+.nav-conatainer{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: rgb(104, 48, 26);
+  height: 20px;
+  align-items: center;
+}
+
+
+
+.nav-conatainer ul{
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  color: white;
+
+}
+
+.link-tag{
+  color: white;
+  text-decoration: none;
+}
